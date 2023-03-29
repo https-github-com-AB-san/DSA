@@ -11,8 +11,12 @@
             "id": "edbd57516bd8aff5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DSA 101/Arrays.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA 101/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA 101/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA 101/Arrays.md"
+              }
             }
           }
         ]
@@ -138,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f33f1c51b8fb1387",
+  "active": "edbd57516bd8aff5",
   "lastOpenFiles": [
+    "2023-03-22.md",
     "DSA 101/Arrays.md",
     "Untitled.md",
     "Untitled.canvas",
-    "2023-03-22.md",
     "Untitled 1.canvas",
     "DSA 101/Strings.md",
     "DSA 101"
