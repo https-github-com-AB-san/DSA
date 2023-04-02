@@ -11,15 +11,24 @@
             "id": "edbd57516bd8aff5",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c1cb96bec03ed45",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA 101/Arrays.md",
+                "file": "Tree/Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA 101/Arrays.md",
+                "file": "Tree/Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA 101/Arrays.md",
+                "file": "Tree/Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA 101/Arrays.md"
+                "file": "Tree/Binary Tree.md"
               }
             }
           }
@@ -146,11 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edbd57516bd8aff5",
+  "active": "f33f1c51b8fb1387",
   "lastOpenFiles": [
-    "2023-03-22.md",
+    "Tree/Binary Tree.md",
+    "Arrays.md",
+    "Tree",
+    "Arrays",
     "DSA 101/Arrays.md",
-    "Untitled.md",
+    "2023-03-22.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "DSA 101/Strings.md",
