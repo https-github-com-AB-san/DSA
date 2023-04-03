@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/Diameter.md",
+                "file": "Balanced Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree/Diameter.md",
+                "file": "Balanced Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree/Diameter.md",
+                "file": "Balanced Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree/Diameter.md"
+                "file": "Balanced Binary Tree.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "6c1cb96bec03ed45",
   "lastOpenFiles": [
-    "2023-04-03.md",
+    "A.md",
+    "Balanced Binary Tree.md",
     "Tree/Binary Tree.md",
     "Tree/Diameter.md",
-    "Untitled.md",
+    "2023-04-03.md",
     "Untitled",
     "Arrays.md",
     "Tree",

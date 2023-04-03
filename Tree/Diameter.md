@@ -25,7 +25,7 @@ The **length** of a path between two nodes is represented by the number of edges
 -   `-100 <= Node.val <= 100`
 
 ## Naive Approach
-Create a function for height and find the max diameter b/w left subtre
+Create a function for height and find the max diameter(=height of left + height subtree) b/w left subtre and right subtree and curr root , throughout the tree.
 ```java
 /**
  * Definition for a binary tree node.
