@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "aa13bc7a110b5fbc",
+        "id": "23ee149acb52e0a5",
         "type": "tabs",
         "children": [
           {
-            "id": "6c1cb96bec03ed45",
+            "id": "b750b50152cdcb57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Balanced Binary Tree.md",
+                "file": "Tree/Balanced Binary Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "140d397faaed6bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tree/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Balanced Binary Tree.md",
+                "file": "Tree/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Balanced Binary Tree.md",
+                "file": "Tree/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Balanced Binary Tree.md"
+                "file": "Tree/Untitled.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c1cb96bec03ed45",
+  "active": "140d397faaed6bc6",
   "lastOpenFiles": [
+    "Tree/Balanced Binary Tree.md",
+    "Tree/Untitled.md",
     "A.md",
-    "Balanced Binary Tree.md",
     "Tree/Binary Tree.md",
     "Tree/Diameter.md",
     "2023-04-03.md",
