@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/100. Same Tree.md",
+                "file": "Tree/103. Binary Tree Zigzag Level Order Traversal.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree/100. Same Tree.md",
+                "file": "Tree/103. Binary Tree Zigzag Level Order Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree/100. Same Tree.md",
+                "file": "Tree/103. Binary Tree Zigzag Level Order Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree/100. Same Tree.md"
+                "file": "Tree/103. Binary Tree Zigzag Level Order Traversal.md"
               }
             }
           }
@@ -183,9 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f33f1c51b8fb1387",
+  "active": "0300fe120585eb47",
   "lastOpenFiles": [
+    "1.md",
     "Tree/001 Binary Tree.md",
+    "Tree/103. Binary Tree Zigzag Level Order Traversal.md",
     "Tree/100. Same Tree.md",
     "Tree/129. Sum Root to Leaf Numbers.md",
     "Untitled.md",
