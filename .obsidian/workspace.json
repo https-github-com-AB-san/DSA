@@ -47,12 +47,8 @@
             "id": "0300fe120585eb47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree/129. Sum Root to Leaf Numbers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree/129. Sum Root to Leaf Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree/129. Sum Root to Leaf Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tree/129. Sum Root to Leaf Numbers.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,15 +177,15 @@
   },
   "active": "0300fe120585eb47",
   "lastOpenFiles": [
+    "Tree/001 Binary Tree.md",
+    "Tree/129. Sum Root to Leaf Numbers.md",
     "Untitled.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Tree/129. Sum Root to Leaf Numbers.md",
     "Tree/104. Maximum Depth of Binary Tree.md",
     "Tree/543. Diameter of Binary Tree.md",
     "Tree/110. Balanced Binary Tree.md",
     "Tree/124. Binary Tree Maximum Path Sum.md",
-    "Tree/001 Binary Tree.md",
     "A.md",
     "2023-04-03.md",
     "Untitled",
