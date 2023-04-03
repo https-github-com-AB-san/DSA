@@ -47,8 +47,12 @@
             "id": "0300fe120585eb47",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tree/100. Same Tree.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tree/100. Same Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tree/100. Same Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tree/100. Same Tree.md"
+              }
             }
           }
         ]
@@ -175,9 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0300fe120585eb47",
+  "active": "f33f1c51b8fb1387",
   "lastOpenFiles": [
     "Tree/001 Binary Tree.md",
+    "Tree/100. Same Tree.md",
     "Tree/129. Sum Root to Leaf Numbers.md",
     "Untitled.md",
     "Untitled 2.md",
