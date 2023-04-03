@@ -1,3 +1,4 @@
+#03-04-2022
 ## Problem Statement 
 Given the `root` of a binary tree, return _the length of the **diameter** of the tree_.
 
@@ -24,9 +25,6 @@ The **length** of a path between two nodes is represented by the number of edges
 -   `-100 <= Node.val <= 100`
 
 ## Naive Approach
-
-#03-04-2022
-
 ```java
 /**
  * Definition for a binary tree node.
@@ -51,6 +49,41 @@ class Solution {
     public int height(TreeNode root){
         if(root == null)return 0;
         return 1+Math.max(height(root.left),height(root.right));
+    }
+}
+```
+
+
+## Efficient Approach 
+Simply the store the max diameter found till now while calculating the height of the tree.
+```java
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    private int ans = 0;
+    public int diameterOfBinaryTree(TreeNode root) {
+        int x = height(root);
+        return ans;
+    }
+    public int height(TreeNode root){
+        if(root == null)return 0;
+        int l = height(root.left);
+        int r = height(root.right);
+        ans = Math.max(ans,l+r);
+        return 1 + Math.max(l,r);
     }
 }
 ```
