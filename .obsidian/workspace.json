@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/Balanced Binary Tree.md",
+                "file": "Tree/110. Balanced Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5dc68117ff8df3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tree/104. Maximum Depth of Binary Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06584fb0450b737e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree/001 Binary Tree.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree/001 Binary Tree.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree/001 Binary Tree.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -159,12 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "140d397faaed6bc6",
+  "active": "06584fb0450b737e",
   "lastOpenFiles": [
-    "Tree/Balanced Binary Tree.md",
+    "Tree/104. Maximum Depth of Binary Tree.md",
+    "Untitled.md",
+    "Tree/543. Diameter of Binary Tree.md",
+    "Tree/110. Balanced Binary Tree.md",
+    "Tree/124. Binary Tree Maximum Path Sum.md",
     "Tree/001 Binary Tree.md",
-    "Tree/Height.md",
-    "Tree/Diameter.md",
     "A.md",
     "2023-04-03.md",
     "Untitled",
