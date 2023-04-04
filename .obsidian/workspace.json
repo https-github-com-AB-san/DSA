@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/001 Binary Tree.md",
+                "file": "Tree/Boundary Traversal of Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "0",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree/001 Binary Tree.md",
+                "file": "Tree/Boundary Traversal of Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree/001 Binary Tree.md",
+                "file": "Tree/Boundary Traversal of Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree/001 Binary Tree.md"
+                "file": "Tree/Boundary Traversal of Binary Tree.md"
               }
             }
           }
@@ -171,12 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5dc68117ff8df3f",
+  "active": "f33f1c51b8fb1387",
   "lastOpenFiles": [
+    "Tree/001 Binary Tree.md",
+    "Tree/Boundary Traversal of Binary Tree.md",
     "Tree/103. Binary Tree Zigzag Level Order Traversal.md",
     "Tree/104. Maximum Depth of Binary Tree.md",
     "1.md",
-    "Tree/001 Binary Tree.md",
     "Tree/100. Same Tree.md",
     "Tree/129. Sum Root to Leaf Numbers.md",
     "Untitled.md",
