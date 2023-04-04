@@ -11,12 +11,8 @@
             "id": "b750b50152cdcb57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree/110. Balanced Binary Tree.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -43,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree/Boundary Traversal of Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree/Boundary Traversal of Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tree/Boundary Traversal of Binary Tree.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,9 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f33f1c51b8fb1387",
+  "active": "b750b50152cdcb57",
   "lastOpenFiles": [
+    "Tree/993. Cousins in Binary Tree.md",
     "Tree/001 Binary Tree.md",
+    "Tree/110. Balanced Binary Tree.md",
     "Tree/Boundary Traversal of Binary Tree.md",
     "Tree/103. Binary Tree Zigzag Level Order Traversal.md",
     "Tree/104. Maximum Depth of Binary Tree.md",
@@ -184,7 +177,6 @@
     "Untitled 2.md",
     "Untitled 1.md",
     "Tree/543. Diameter of Binary Tree.md",
-    "Tree/110. Balanced Binary Tree.md",
     "Tree/124. Binary Tree Maximum Path Sum.md",
     "A.md",
     "2023-04-03.md",
