@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "920ee0ae2169858c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9],[3,15],[20],[7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "140d397faaed6bc6",
             "type": "leaf",
             "state": {
@@ -39,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9],[3,15],[20],[7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9],[3,15],[20],[7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9],[3,15],[20],[7.md"
+              }
             }
           }
         ]
@@ -162,10 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b750b50152cdcb57",
+  "active": "920ee0ae2169858c",
   "lastOpenFiles": [
-    "Tree/993. Cousins in Binary Tree.md",
+    "9],[3,15],[20],[7.md",
     "Tree/001 Binary Tree.md",
+    "Tree/987. Vertical Order Traversal of a Binary Tree.md",
+    "Tree/993. Cousins in Binary Tree.md",
     "Tree/110. Balanced Binary Tree.md",
     "Tree/Boundary Traversal of Binary Tree.md",
     "Tree/103. Binary Tree Zigzag Level Order Traversal.md",
