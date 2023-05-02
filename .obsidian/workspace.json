@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "01ad956d50e8b80e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOPs/OOPs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "140d397faaed6bc6",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree/001 Binary Tree.md",
+                "file": "OOPs/OOPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree/001 Binary Tree.md",
+                "file": "OOPs/OOPs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree/001 Binary Tree.md"
+                "file": "OOPs/OOPs.md"
               }
             }
           }
@@ -170,11 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b750b50152cdcb57",
+  "active": "01ad956d50e8b80e",
   "lastOpenFiles": [
+    "Tree/001 Binary Tree.md",
+    "OOPs/OOPs.md",
+    "OOPs",
     "Tree/987. Vertical Order Traversal of a Binary Tree.md",
     "9],[3,15],[20],[7.md",
-    "Tree/001 Binary Tree.md",
     "Tree/993. Cousins in Binary Tree.md",
     "Tree/110. Balanced Binary Tree.md",
     "Tree/Boundary Traversal of Binary Tree.md",
@@ -190,7 +205,6 @@
     "Tree/124. Binary Tree Maximum Path Sum.md",
     "A.md",
     "2023-04-03.md",
-    "Untitled",
     "Arrays.md",
     "Tree",
     "Arrays",
