@@ -5,5 +5,5 @@ Basic concepts of OOPs -
 -   Inheritance - **Inheritance in Java** is a mechanism in which one object acquires all the properties and behaviors of a parent object.
 -   Polymorphism -  If a [class](https://www.javatpoint.com/object-and-class-in-java) has multiple methods having same name but different in parameters, it is known as **Method Overloading**    ....... If subclass (child class) has the same method as declared in the parent class, it is known as **method overriding in Java**.
 -   Abstraction - **Abstraction** is a process of hiding the implementation details and showing only functionality to the user. A class which is declared as abstract is known as an **abstract class**. It can have abstract and non-abstract methods. It needs to be extended and its method implemented. It cannot be instantiated.
-
--   Encapsulation 
+Interface can have **only abstract** methods.Interface has **only static and final variables**.
+-   Encapsulation - **Encapsulation in Java** is a _process of wrapping code and data together into a single unit_, for example, a capsule which is mixed of several medicines.
