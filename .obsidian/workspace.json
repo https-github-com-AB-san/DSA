@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "6f9bb7bc372f1464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tree/100. Same Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "140d397faaed6bc6",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,6 +113,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "df0dba054cf77b4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -122,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOPs/OOPs.md",
+                "file": "Tree/100. Same Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOPs/OOPs.md",
+                "file": "Tree/100. Same Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOPs/OOPs.md"
+                "file": "Tree/100. Same Tree.md"
               }
             }
           }
@@ -183,8 +203,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01ad956d50e8b80e",
+  "active": "6f9bb7bc372f1464",
   "lastOpenFiles": [
+    "Tree/Boundary Traversal of Binary Tree.md",
     "Tree/001 Binary Tree.md",
     "OOPs/OOPs.md",
     "OOPs",
@@ -192,7 +213,6 @@
     "9],[3,15],[20],[7.md",
     "Tree/993. Cousins in Binary Tree.md",
     "Tree/110. Balanced Binary Tree.md",
-    "Tree/Boundary Traversal of Binary Tree.md",
     "Tree/103. Binary Tree Zigzag Level Order Traversal.md",
     "Tree/104. Maximum Depth of Binary Tree.md",
     "1.md",
