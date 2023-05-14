@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "23ee149acb52e0a5",
+        "id": "71dc0eefcddb3094",
         "type": "tabs",
         "children": [
           {
-            "id": "b750b50152cdcb57",
+            "id": "d6f5097ee3916e21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree/001 Binary Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01ad956d50e8b80e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OOPs/OOPs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f9bb7bc372f1464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree/103. Binary Tree Zigzag Level Order Traversal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "140d397faaed6bc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree/001 Binary Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5dc68117ff8df3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree/Boundary Traversal of Binary Tree.md",
+                "file": "Tree/129. Sum Root to Leaf Numbers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree/103. Binary Tree Zigzag Level Order Traversal.md",
+                "file": "Tree/129. Sum Root to Leaf Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree/103. Binary Tree Zigzag Level Order Traversal.md",
+                "file": "Tree/129. Sum Root to Leaf Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree/103. Binary Tree Zigzag Level Order Traversal.md"
+                "file": "Tree/129. Sum Root to Leaf Numbers.md"
               }
             }
           }
@@ -203,19 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f9bb7bc372f1464",
+  "active": "d6f5097ee3916e21",
   "lastOpenFiles": [
-    "Tree/100. Same Tree.md",
-    "Tree/Boundary Traversal of Binary Tree.md",
     "Tree/001 Binary Tree.md",
+    "Tree/104. Maximum Depth of Binary Tree.md",
+    "Tree/103. Binary Tree Zigzag Level Order Traversal.md",
+    "Tree/Boundary Traversal of Binary Tree.md",
     "OOPs/OOPs.md",
+    "Tree/100. Same Tree.md",
     "OOPs",
     "Tree/987. Vertical Order Traversal of a Binary Tree.md",
     "9],[3,15],[20],[7.md",
     "Tree/993. Cousins in Binary Tree.md",
     "Tree/110. Balanced Binary Tree.md",
-    "Tree/103. Binary Tree Zigzag Level Order Traversal.md",
-    "Tree/104. Maximum Depth of Binary Tree.md",
     "1.md",
     "Tree/129. Sum Root to Leaf Numbers.md",
     "Untitled.md",
